@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    padding: 1em;
+}
+
+.sqContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    border: 2px black solid;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.box {
+    box-sizing: border-box;
+    border: 1px black solid;
+    background-color: white;
+   
+}
+
+.topBar {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.header {
+    font-weight: 900;
+    font-size: large;
+}
+

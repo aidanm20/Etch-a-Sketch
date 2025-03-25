@@ -1,1 +1,1 @@
-# etch-sketch
+# Simple Etch-sketch program 

@@ -24,4 +24,4 @@ This is a simple browser-based Etch-a-Sketch game built with HTML, CSS, and Java
 
 - JavaScript
 
-Feel free to fork and customize the project! 🚀
+Feel free to fork and customize the project! ☃️
